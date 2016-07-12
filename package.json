@@ -1,0 +1,14 @@
+{
+  "name": "aurora-gui",
+  "description": "A gui for NodeOS based off of ChromiumOS",
+  "version": "0.0",
+  "bugs": {
+    "web": "https://github.com/joshgarde/aurora/issues"
+  },
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "https://raw.githubusercontent.com/joshgarde/aurora/master/LICENSE"
+    }
+  ]
+}
